@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-title: good to see you here
+content: good to see you here
 
 ---
 
